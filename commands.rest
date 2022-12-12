@@ -1,1 +1,0 @@
-POST http://localhost:5000/openai/generateimage {prompt: 'man on the moon', size: 'medium'}
